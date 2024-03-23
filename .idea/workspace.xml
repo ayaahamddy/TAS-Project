@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6de5e629-2965-4127-ac43-72e22609b5be" name="Changes" comment="Commit project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2aDWbBPP1jRpXAGYHIvzsVyloZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Task/Task Ejada/Automation Task/Scenarios",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Task\Task ITWORKS Education\Automation Task\course\src\test\java\Buy" />
+      <recent name="D:\Task\Task ITWORKS Education\Automation Task\course\src\test\java\Login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Task\Task Ejada\Automation Task\Scenarios\src\test\java" />
+      <recent name="D:\Task\Task ITWORKS Education\Automation Task\course\src\test\java\Login\Feature\Feature" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Login.Runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BuyRunner">
+    <configuration name="All Features in: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Login" />
+      <option name="GLUE" value="Login.Steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Scenarios" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Scenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Buy.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Buy.Runner" />
+      <option name="MAIN_CLASS_NAME" value="Buy.Runner.BuyRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Scenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login.Runner" />
+      <option name="MAIN_CLASS_NAME" value="Login.Runner.LoginRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelRun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Scenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Parallel" />
+      <option name="MAIN_CLASS_NAME" value="Parallel.ParallelRun" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Scenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login.Runner" />
+      <option name="MAIN_CLASS_NAME" value="Login.Runner.ParallelRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BuyRunner" />
+        <item itemvalue="TestNG.LoginRunner" />
+        <item itemvalue="TestNG.ParallelRunner" />
+        <item itemvalue="Cucumber Java.All Features in: Login" />
+        <item itemvalue="TestNG.ParallelRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de5e629-2965-4127-ac43-72e22609b5be" name="Changes" comment="" />
+      <created>1703853701154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703853701154</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit project">
+      <created>1711218328689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711218328689</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit project" />
+  </component>
+</project>
